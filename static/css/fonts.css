@@ -1,0 +1,20 @@
+@font-face{
+    font-family: 'Rufina-700';
+    src:url("../fonts/Rufina-Bold.ttf");
+}
+@font-face{
+    font-family: 'Red-Rose-400';
+    src:url("../fonts/RedRose-Regular.ttf");
+}
+@font-face{
+    font-family: 'red-hat-display-400';
+    src:url("../fonts/RedHatDisplay-Regular.ttf");
+}
+@font-face{
+    font-family: 'red-hat-display-600';
+    src:url("../fonts/RedHatDisplay-SemiBold.ttf");
+}
+@font-face{
+    font-family: 'red-rose-700';
+    src:url("../fonts/RedRose-Bold.ttf");
+}
